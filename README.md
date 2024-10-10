@@ -1,1 +1,1 @@
-(static/1.jpeg)
+![test](static/1.jpeg)
